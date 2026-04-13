@@ -3,7 +3,4 @@
 /gesture_env.tar.gz
 __pycache__/
 __pycache__
-*.pyc
-*.pyo
-*.pyd
-*.py
+
